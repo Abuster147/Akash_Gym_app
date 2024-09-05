@@ -16,6 +16,7 @@ This is a web application built using **React.js**, **Tailwind CSS**, and **Java
 - **React.js**: For building the user interface.
 - **Tailwind CSS**: For fast and efficient styling.
 - **JavaScript**: Core logic implementation.
+- **Vite**: For a faster development build system.
 - **Vercel**: For deployment and hosting.
 
 ## Demo
@@ -41,4 +42,7 @@ Make sure you have the following installed on your local machine:
 
    ```bash
    git clone https://github.com/your-username/sculpt-sync-webapp.git
-
+   cd sculpt-sync-webapp
+   npm install
+   npm run dev
+   npm run build
